@@ -7,24 +7,24 @@
 4. Bagaimana perbedaan pola peminjaman sepeda pada kategori ramai, sedang, dan sepi berdasarkan musim dan cuaca?
 
 ### The Analysis Folder
-```bash
+<code>```bash
 Proyek_Analisis Data_Mushawwir S.ipynb
-```
+</code>
 
 ## The Dashboard (Using Streamlit)
 For running this project, please follow this instruction:
 1. Open Your Favorite Terminal.
 2. Install Dependencies.
 
-```bash
+<code>```bash
 pip install -r requirements.txt
-```
+</code>
 
 3. Run the dashboard
 
-```bash
+<code>```bash
 streamlit run ./Dashboard/dashboard.py
-```
+```</code>
 
 4. Open the Apps on localhost.
 Usually, port is 8501 -> localhost:8501

@@ -9,7 +9,6 @@
 ### The Analysis Folder
 '''bash
 Proyek_Analisis Data_Mushawwir S.ipynb
-'''
 
 ## The Dashboard (Using Streamlit)
 For running this project, please follow this instruction:
@@ -18,13 +17,11 @@ For running this project, please follow this instruction:
 
 '''bash
 pip install -r requirements.txt
-'''
 
 3. Run the dashboard
 
 '''bash
 streamlit run ./Dashboard/dashboard.py
-'''
 
 4. Open the Apps on localhost.
 Usually, port is 8501 -> localhost:8501
